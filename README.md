@@ -1,4 +1,4 @@
-# Slope Game
-https://PlaySlope.pages.dev
+# Slope Math
+https://pages.dev
 
 https://www.bigfeet.tech/
